@@ -1,2 +1,2 @@
 # coursera-test
-courrsera test repositorry cal
+coursera test repositorry cal
